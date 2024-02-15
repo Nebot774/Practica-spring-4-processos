@@ -15,6 +15,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @Document("pilotos")
 public class Piloto implements Serializable {
+
     @Id
     private String id;
     @Field("driver")
@@ -29,4 +30,5 @@ public class Piloto implements Serializable {
     private String pais;
     @Field("date_of_birth")
     private LocalDate fechaNacimiento;
+
 }
