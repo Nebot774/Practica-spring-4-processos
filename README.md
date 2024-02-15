@@ -30,5 +30,3 @@ Aprovechando las capacidades reactivas de Spring Webflux, se implementa una inte
 - Maven
 - Java
 
-## Contribuciones
-Invitamos a colaboradores entusiastas a contribuir y enriquecer este proyecto.
